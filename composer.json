@@ -1,0 +1,23 @@
+{
+  "name": "azerdict/AssetsBundle",
+  "type": "symfony-bundle",
+  "description": "Azerdict Assets Bundle",
+  "keywords": ["azerdict"],
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Farhad Safarov",
+      "homepage": "http://ferhad.in"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4",
+    "symfony/symfony": ">=2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Azerdict\\AssetsBundle\\": ""
+    }
+  }
+}
