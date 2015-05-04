@@ -181,3 +181,140 @@ footer:
     title: 'Mobil Dasturlar'
     intro: 'Mobil foydalanuvchilarni esdan chiqarmadik! Saytdan kun davomidan qulay foydalanishingiz uchun dasturlar.'
     azerdict: 'uzbekdict dasturlari'
+
+terminology:
+  general: general
+  biological: biological
+  spoken language: spoken language
+  botanical: botanical
+  medical: medical
+  American: American
+  law: law
+  philosophical: philosophical
+  physics: physics
+  physiological: physiological
+  mathematics: mathematics
+  sport: sport
+  figurative meaning: figurative meaning
+  economy: economy
+  art: art
+  anatomical: anatomical
+  anthropological: anthropological
+  parenthesis: parenthesis
+  archaism: archaism
+  archeological: archeological
+  astronomical: astronomical
+  computer: computer
+  proverb: proverb
+  aeronautics: aeronautics
+  horticultural: horticultural
+  bacteriological: bacteriological
+  veterinary: veterinary
+  zoological: zoological
+  geographical: geographical
+  office: office
+  nautical: nautical
+  dialect: dialect
+  linguistic: linguistic
+  religion: religion
+  diplomatic: diplomatic
+  technical: technical
+  ecology: ecology
+  electrical engineering: electrical engineering
+  scientific: scientific
+  emphatic: emphatic
+  ethnographic: ethnographic
+  euphemism: euphemism
+  pharmacological: pharmacological
+  literature: literature
+  mythology: mythology
+  folklore: folklore
+  phonetic: phonetic
+  photography: photography
+  french: french
+  geodesy: geodesy
+  geological: geological
+  geometrical: geometrical
+  military: military
+  political: political
+  idiomatic: idiomatic
+  building: building
+  irony: irony
+  jargon: jargon
+  church: church
+  chemistry: chemistry
+  ironical: ironical
+  movie: movie
+  finance: finance
+  agricultural: agricultural
+  grammatical: grammatical
+  Latin: Latin
+  architecture: architecture
+  logic: logic
+  printing: printing
+  press: press
+  mineralogy: mineralogy
+  music: music
+  book-keeping: book-keeping
+  polite: polite
+  optics: optics
+  sporting: sporting
+  psychology: psychology
+  radio: radio
+  official language: official language
+  painting: painting
+  political-economy: political-economy
+  statistics: statistics
+  poetical: poetical
+  chess: chess
+  taboo: taboo
+  history: history
+  theatrical: theatrical
+  television: television
+  commerce: commerce
+  building: building
+  typographical: typographical
+  textile: textile
+  collective noun: collective noun
+  baby language: baby language
+  jocular: jocular
+  saying: saying
+  railway: railway
+  cooking: cooking
+  polygraph: polygraph
+  geographical name: geographical name
+  geographical name: geographical name
+  rude word: rude word
+  vulgar: vulgar
+
+pos:
+  noun: noun
+  verb: verb
+  adjective: adjective
+  numeral: numeral
+  adverb: adverb
+  pronoun: pronoun
+  conjunction: conjunction
+  partical: partical
+  preposition: preposition
+  abbreviation: abbreviation
+  past tense: past tense
+  past participle: past participle
+  present participle: present participle
+  conjective pronoun: conjective pronoun
+  demonstrative pronoun: demonstrative pronoun
+  interrogative pronoun: interrogative pronoun
+  personal pronoun: personal pronoun
+  possessive pronoun: possessive pronoun
+  indefinite pronoun: indefinite pronoun
+  reflexive pronoun: reflexive pronoun
+  relative pronoun: relative pronoun
+  indefinite adverb: indefinite adverb
+  interrogative adverb: interrogative adverb
+  relative adverb: relative adverb
+  prefix: prefix
+  interjection: interjection
+  singular: singular
+  phrases: phrases
+  plural: plural
+  emphatic pronoun: emphatic pronoun
