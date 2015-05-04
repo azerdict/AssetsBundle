@@ -58,6 +58,7 @@ dictionary:
     with_result: '&ldquo;<strong>%word%</strong>&rdquo; sözü Azərbaycan dilinin orfoqrafiya lüğətində mövcuddur.'
   russian:
     title: 'Rusca-Azərbaycanca lüğət'
+    description: 'Rusca-Azərbaycanca lüğət'
     word: %word% sözünün rus dilində tərcüməsi və mənası
 
 pages:

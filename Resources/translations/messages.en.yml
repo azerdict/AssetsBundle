@@ -58,6 +58,7 @@ dictionary:
     with_result: 'The word &ldquo;<strong>%word%</strong>&rdquo; exists in the orthographic dictionary of Azerbaijan language.'
   russian:
     title: 'Russian-Azerbaijani Dictionary'
+    description: 'Russian-Azerbaijani Dictionary'
     word: 'Translation and meaning of %word% in Russian'
 
 pages:
