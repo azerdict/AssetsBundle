@@ -47,7 +47,7 @@ dictionary:
     description: 'Azərbaycan dilinin izahlı lüğəti. Azərbaycanın ən böyük onlayn lüğəti. Tərcümə və lüğət servisi.'
     placeholder: 'Söz daxil edin'
     info: 'İzahlı lüğət Azərbaycan ədəbi dilinin lüğət tərkibini, dilimizə daxil olmuş yeni sözləri, dildə olan sözlərin bir çoxunda əmələ gəlmiş yeni mənaları və məna incəliklərini əks etdirir. Lüğətdən istifadə üçün lazım olan məlumatlar bölməsində lüğətin strukturu və lüğətdəki məlumatlardan %url_start%istifadə qaydaları%url_end% öz əksini tapmışdır. Lüğətin hazırlanmasında dörd cildlik “Azərbaycan dilinin izahlı lüğəti” (Bakı, “Şərq-Qərb”, 2006) kitablarına istinad edilmişdir.'
-    word: %word% sözünün azərbaycan dilində tərcüməsi və mənası
+    word: '%word% sözünün Azərbaycan dilində tərcüməsi və mənası'
   orthography:
     title: 'Orfoqrafiya lüğəti'
     word: Azərbaycan dilində %word% sözü
