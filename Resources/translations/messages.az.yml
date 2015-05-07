@@ -289,12 +289,12 @@ terminology:
   vulgar: vulgar
 
 pos:
-  noun: noun
-  verb: verb
-  adjective: adjective
-  numeral: numeral
-  adverb: adverb
-  pronoun: pronoun
+  noun: isim
+  verb: fel
+  adjective: sifət
+  numeral: say
+  adverb: zərf
+  pronoun: əvəzlik
   conjunction: conjunction
   partical: partical
   preposition: preposition
