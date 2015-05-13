@@ -52,17 +52,17 @@ dictionary:
     title: 'Орфографический Словар'
     word: '%word% на Азербайджанском'
     # info: 'Orfoqrafiya lüğətində müəyyən edilmiş qaydalara görə sözlərin düzgün yazılış formaları verilir. Azərbaycan dilinin orfoqrafiya lüğəti Azərbaycan Respublikası Prezidentinin 26 may 2004-cü il tarixli 71 nömrəli fərmanına uyğun olaraq Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən təsdiq olunmuş yeni %url_start%orfoqrafiya qaydaları%url_end% əsasında tərtib edilmişdir. Orfoqrafiya lüğətində 80 000-ə yaxın sözün düzgün yazılışı göstərilmişdir.'
-    rules: 'Azərbaycan Dilinin Orfoqrafiya Qaydaları'
-    placeholder: 'Yoxlayacağınız sözü daxil edin'
-    no_result: '&ldquo;<strong>%word%</strong>&rdquo; sözü Azərbaycan dilinin orfoqrafiya lüğətində yoxdur.'
-    with_result: '&ldquo;<strong>%word%</strong>&rdquo; sözü Azərbaycan dilinin orfoqrafiya lüğətində mövcuddur.'
+    rules: 'Орфографические Правила Азербайджанского Языка'
+    placeholder: 'Введите слова для проверки'
+    no_result: '&ldquo;<strong>%word%</strong>&rdquo; нету в орфографическом словаре Азербайджанского языка.'
+    with_result: '&ldquo;<strong>%word%</strong>&rdquo; есть в орфографическом словаре Азербайджанского языка.'
   russian:
-    title: 'Rusca-Azərbaycanca lüğət'
-    word: %word% sözünün rus dilində tərcüməsi və mənası
+    title: 'Русский-Азербайджанский словар'
+    word: Перевод и означение для %word% на Русском
 
 pages:
   about:
-    title: Haqqımızda
+    title: О нас
     content:
       p1: 'Azerdict Azərbaycanın ən böyük pulsuz dil portalıdır. Azərbaycan dilinin və xarici dillərin tam tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi azerdict layihəsinin əsas məqsədidir. Hazırda layihə çərçivəsində saytda 4 istiqamətdə lüğət xidməti göstərilir və bu xidmətlərin artırılması gələcək planlarda öz əksini tapıb.'
       p2:
@@ -75,28 +75,28 @@ pages:
         title: 'Azərbaycanca-rusca və rusca-azərbaycanca lüğət'
         info: 'Təqdim etdiyimiz lüğətdə rusca azərbaycanca 10000 və azərbaycanca rusca 40000 olmaq üzrə cəmi 50000-ə yaxın söz və söz birləşməsi mövcuddur.'
       p5:
-        title: 'Orfoqrafiya lüğəti'
+        title: 'Орфографический словар'
         info: 'Azərbaycan Respublikası Prezidentinin 26 may 2004-cü il tarixli 71 nömrəli fərmanına uyğun olaraq Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən təsdiq olunmuş yeni orfoqrafiya qaydaları əsasında tərtib edilmiş orfoqrafiya lüğəti bazasında 80000-ə yaxın sözün düzgün yazılışı rəsmi mənbədə olduğu kimi göstərilmişdir və heç bir dəyişiklik edilməmişdir.'
       p6: 'Xidmətlərimiz və işlərimizlə bağlı istənilən təklif, ideya və rəylərinizi əlaqə formu və ya sosial media vasitəsilə bizə göndərə bilərsiniz. Bizə göndərdiyiniz sorğu və təklifləriniz ən qısa müddətdə qiymətləndirilərək bu haqda məlumatlandırılacaqsınız. Xidmətlərimizin yaxşılaşdırıla bilinməsi üçün bizimlə bağlı təklifləriniz və ya şikayətlərinizə hər zaman önəm veririk.'
       p7: 'Hörmətlə,'
   contact:
-    title: Əlaqə
-    info_heading: 'Əlaqə Məlumatları'
+    title: Связаться с нами
+    info_heading: 'Контакты'
     info_text: 'Dəyərli fikirlərinizi bizimlə paylaşmaqdan çəkinməyin.'
-    form_name: 'Ad Soyad'
-    form_email: E-poçt
+    form_name: 'Имя Фамилия'
+    form_email: Е-почта
     form_subject:
       bug: 'Xəta Bildir'
       offer: 'Təklif Et'
-      advertise: Reklam
-      api: 'API Tələb'
+      advertise: Реклама
+      api: 'Запрос на API'
       other: Digər
     form_successful: 'Təşəkkürlər! Tezliklə sizinlə əlaqə saxlayacağıq.'
-    map: Xəritə
+    map: Карта
   advertise:
-    title: Reklam
+    title: Реклама
   privacy:
-    title: 'Məxfilik Siyasəti'
+    title: 'Политика Конфиденциальности'
     content:
       p1:
         title: 'Vebsayt Ziyarətçiləri'
@@ -153,26 +153,26 @@ pages:
         title: '10. Təminatdan Azad'
         text: 'Siz qəbul edir və razılaşırsınız ki; a.  Sizə AzerDict onlayn lüğət xidməti "olduğu kimi" təqdim olunur; b.  AzerDict təminat vermir ki, göstərilən xidmət sizin tələblərinizə tam cavab verəcək və xidmət dəqiq, operativ və qüsursuz olacaq; c.  AzerDict onlayn lüğət xidmətindən istifadə zamanı dəyən zərərə görə AzerDict heç bir məsuliyyət daşımır. Siz dəyən zərərə görə şəxsən özünüz cavabdehsiniz; d.  AzerDict sizə xidmətdən istifadəyə görə birbaşa və ya bilavasitə dəyən (və ya dəyə biləcək) hər hansı zərərə görə məsuliyyət daşımır.'
   sources:
-    title: Mənbə
+    title: Источник
   applications:
     title: 'azerdict tətbiqləri'
-    mobile_apps: 'mobil tətbiqlər'
+    mobile_apps: 'мобильные приложения'
     extensions:
-      title: əlavələr
+      title: расширения
       chrome:
-        title: 'Chrome Əlavə'
+        title: 'Расширения для Chrome'
         text: 'Google Chrome istifadəçiləri üçün sürətli axtarış paneli (qeyri rəsmi)'
 
 errors:
   404:
-    title: 'Səhifə Tapılmadı'
+    title: 'Страница не найдена'
 
 common:
-  email: E-poçt
-  address: Adres
-  send: Göndər
-  on: açıq
-  off: qapalı
+  email: Е-почта
+  address: Адрес
+  send: отправить
+  on: открыто
+  off: закрыто
   rights_reserved: 'Bütün hüquqları qorunur'
   read_more: 'ətrafı məlumat'
 
