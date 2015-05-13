@@ -1,0 +1,320 @@
+site:
+  name: azerdict
+  title: 'Онлайн Словар Азербайджана'
+  description: 'Самый болщой словар Азербайджана. Сервис перевода и словаря.'
+
+menu:
+  home: 'Главная страница'
+  english: 'Английский'
+  russian: 'Русский'
+  azerbaijani: Азербайджанский
+  orthography: Орфография
+  question_answer: Ответы
+  blog: Блог
+
+security:
+  register: Регистрация
+  login: 'Войти'
+  logout: Выйти
+  username: 'Имя ползователя'
+  password: Парол
+  remember: 'Запомнит'
+
+dictionary:
+  common:
+    search: Искать
+    check: Проверит
+    popular_searches: 'Популярные запросы'
+    recent_searches: 'Последние запросы'
+    personal_recent_searches: 'Выши последние запросы'
+    delete_personal_searches: 'удалить все'
+    no_result: 'Не удалос найти резултатов по запросу <strong>%word%</strong>.'
+    number_of_result: 'Перевод для <strong>%word%</strong> (%number% резултатов)'
+    placeholder: 'введите слова для перевода'
+    translate: 'перевести'
+    title: 'Перевод и значение для слова %word%'
+    pronounciation: 'Произношение для %word%'
+  english:
+    title: 'Азербайджанский-Английский Словар'
+    word: Перевод и означение слова %word% на Английском
+    category:
+      azerbaijani: 'Азербайджанский'
+      english: 'Английский'
+      pos: 'Грамматическая кат.'
+      terminology: 'Лексическая кат.'
+  azerbaijani:
+    title: 'Толковый Словарь Азербайджанского'
+    description: 'Толковый словарь Азербайджанского. Самый болщой онлайн словарь Азербайджанского. Сервис перевода и словаря.'
+    placeholder: 'Введите слова'
+    # info: 'İzahlı lüğət Azərbaycan ədəbi dilinin lüğət tərkibini, dilimizə daxil olmuş yeni sözləri, dildə olan sözlərin bir çoxunda əmələ gəlmiş yeni mənaları və məna incəliklərini əks etdirir. Lüğətdən istifadə üçün lazım olan məlumatlar bölməsində lüğətin strukturu və lüğətdəki məlumatlardan %url_start%istifadə qaydaları%url_end% öz əksini tapmışdır. Lüğətin hazırlanmasında dörd cildlik “Azərbaycan dilinin izahlı lüğəti” (Bakı, “Şərq-Qərb”, 2006) kitablarına istinad edilmişdir.'
+    word: Перевод и означение для %word% на Азербайджанском
+  orthography:
+    title: 'Орфографический Словар'
+    word: '%word% на Азербайджанском'
+    # info: 'Orfoqrafiya lüğətində müəyyən edilmiş qaydalara görə sözlərin düzgün yazılış formaları verilir. Azərbaycan dilinin orfoqrafiya lüğəti Azərbaycan Respublikası Prezidentinin 26 may 2004-cü il tarixli 71 nömrəli fərmanına uyğun olaraq Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən təsdiq olunmuş yeni %url_start%orfoqrafiya qaydaları%url_end% əsasında tərtib edilmişdir. Orfoqrafiya lüğətində 80 000-ə yaxın sözün düzgün yazılışı göstərilmişdir.'
+    rules: 'Azərbaycan Dilinin Orfoqrafiya Qaydaları'
+    placeholder: 'Yoxlayacağınız sözü daxil edin'
+    no_result: '&ldquo;<strong>%word%</strong>&rdquo; sözü Azərbaycan dilinin orfoqrafiya lüğətində yoxdur.'
+    with_result: '&ldquo;<strong>%word%</strong>&rdquo; sözü Azərbaycan dilinin orfoqrafiya lüğətində mövcuddur.'
+  russian:
+    title: 'Rusca-Azərbaycanca lüğət'
+    word: %word% sözünün rus dilində tərcüməsi və mənası
+
+pages:
+  about:
+    title: Haqqımızda
+    content:
+      p1: 'Azerdict Azərbaycanın ən böyük pulsuz dil portalıdır. Azərbaycan dilinin və xarici dillərin tam tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi azerdict layihəsinin əsas məqsədidir. Hazırda layihə çərçivəsində saytda 4 istiqamətdə lüğət xidməti göstərilir və bu xidmətlərin artırılması gələcək planlarda öz əksini tapıb.'
+      p2:
+        title: 'Azərbaycanca-ingiliscə və ingiliscə-azərbaycanca lüğət'
+        info: 'Portalın əsas xidməti olan bu lüğət vasitəsilə istifadəçilər hər iki istiqamətdə 150000-dən çox söz, söz birləşməsi, idiom və cümlədən ibarət zəngin söz bazasından istifadə edə bilərlər. İngiliscə azərbaycanca və azərbaycanca ingiliscə tərcümədə çox geniş və unikal imkanlar təklif edən lüğətin bazası istifadəçilərin tələb və təklifləri, eləcə də lüğətdə axtarılıb tapılmayan sözlərin statistikası funksiyasından istifadə olunaraq davamlı və interaktiv olaraq yenilənir.'
+      p3:
+        title: 'Azərbaycan dilinin izahlı lüğəti'
+        info: 'Dörd cildlik “Azərbaycan dilinin izahlı lüğəti” (Bakı, “Şərq-Qərb”, 2006) əsasında hazırlanan lüğətin bazasında təxminən 45000 başlıqda Azərbaycan ədəbi dilinin lüğət tərkibi, dilimizə daxil olmuş yeni sözlər, dildə olan sözlərin bir çoxunda əmələ gəlmiş yeni mənalar və məna incəlikləri nümunələrlə əks olunub.'
+      p4:
+        title: 'Azərbaycanca-rusca və rusca-azərbaycanca lüğət'
+        info: 'Təqdim etdiyimiz lüğətdə rusca azərbaycanca 10000 və azərbaycanca rusca 40000 olmaq üzrə cəmi 50000-ə yaxın söz və söz birləşməsi mövcuddur.'
+      p5:
+        title: 'Orfoqrafiya lüğəti'
+        info: 'Azərbaycan Respublikası Prezidentinin 26 may 2004-cü il tarixli 71 nömrəli fərmanına uyğun olaraq Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən təsdiq olunmuş yeni orfoqrafiya qaydaları əsasında tərtib edilmiş orfoqrafiya lüğəti bazasında 80000-ə yaxın sözün düzgün yazılışı rəsmi mənbədə olduğu kimi göstərilmişdir və heç bir dəyişiklik edilməmişdir.'
+      p6: 'Xidmətlərimiz və işlərimizlə bağlı istənilən təklif, ideya və rəylərinizi əlaqə formu və ya sosial media vasitəsilə bizə göndərə bilərsiniz. Bizə göndərdiyiniz sorğu və təklifləriniz ən qısa müddətdə qiymətləndirilərək bu haqda məlumatlandırılacaqsınız. Xidmətlərimizin yaxşılaşdırıla bilinməsi üçün bizimlə bağlı təklifləriniz və ya şikayətlərinizə hər zaman önəm veririk.'
+      p7: 'Hörmətlə,'
+  contact:
+    title: Əlaqə
+    info_heading: 'Əlaqə Məlumatları'
+    info_text: 'Dəyərli fikirlərinizi bizimlə paylaşmaqdan çəkinməyin.'
+    form_name: 'Ad Soyad'
+    form_email: E-poçt
+    form_subject:
+      bug: 'Xəta Bildir'
+      offer: 'Təklif Et'
+      advertise: Reklam
+      api: 'API Tələb'
+      other: Digər
+    form_successful: 'Təşəkkürlər! Tezliklə sizinlə əlaqə saxlayacağıq.'
+    map: Xəritə
+  advertise:
+    title: Reklam
+  privacy:
+    title: 'Məxfilik Siyasəti'
+    content:
+      p1:
+        title: 'Vebsayt Ziyarətçiləri'
+        text: 'Əksər saytlar kimi, azerdict veb-səyyahlar və serverlər tərəfindən aşkarlana biləcək şəxsi-təyin etməyən məlumatları eləcə də; (a) İnternet Protokol ünvanınızı (IP), (b) sayta daxil olmadan öncə ziyarət etdiyiniz son səhifənin keçidini, (c) səyyahınızı və əməliyyat sisteminizi, və (d) bizdən daha öncə qəbul etdiyiniz kökədə mövcud olan məlumatları (axtardığınız sözlər) toplayır. azerdict-in şəxsi-təyin etməyən məlumatları toplamaqda məqsədi azerdict ziyarətçilərinin saytı necə istifadə etdiyi haqqında daha yaxşı məlumat əldə etməkdir. Aradabir azerdict, şəxsi-təyin etməyən məlumatları istifadə edərək sayt istifadə meyllərini göstərən məruzələr yayımlaya bilər. Ancaq azerdict bu məlumatları istifadəçilərini müəyyənləşdirmək üçün istifadə etmir və aşağıda göstərilən hallar xaricində bu məlumatları açıqlamır.'
+      p2:
+        title: 'Məlumat Toplanması və Qorunması'
+        text: 'azerdict istifadəçilərin məqsədini nəzərə alaraq yalnız lazımı və müvafiq məlumatları toplayır. azerdict aşağıdakı hallar xaricində şəxsi-təyin edən məlumatları açıqlamır. İstifadəçilər bəzi əksikliklərin yarana biləcəyini nəzərə alaraq bu məlumatları təmin etməkdən imtina edə bilərlər. azerdict potensial olaraq şəxsi təyin edən və şəxsi təyin edən məlumatları ancaq öz işçiləriylə, podratçılarıyla və əlaqəli təşkilatlarla (i) məlumatların sadəcə azerdict üçün xidmət vermək, (ii) digərləri ilə paylaşmamaq şərtlərini qəbul etdikləri halda paylaşa bilər. azerdict potensial olaraq şəxsi təyin edən və şəxsi təyin edən məlumatları heç kimə kiralamayacaq və satmayacaq. azerdict, potensial olaraq şəxsi təyin edən və şəxsi təyin edən məlumatları sadəcə qanun bunu tələb etdikdə və ya məlumatların açıqlanmasının azerdict-in, üçüncü tərəflərin və ya ictimaiyyətin mülkünün və ya haqlarının qorunması üçün lazım olduğuna həqiqətən inandığında açıqlaya bilər. Əgər siz azerdict veb səhifəsinin qeydiyyatlı üzvüsünüzsə və e-poçt ünvanınızı bizimlə paylaşmısınızsa (abunəliklə və s.), azerdict bəzən sizi yeniliklərdən xəbərdar etmək, əks-rabitənizi dəyərləndirmək, və ya azerdict-də nələr baş verdiyini və məhsullarımız haqqında bildirmək üçün sizə e-poçt göndərə bilər. azerdict bizə göndəriyiniz təklifləri dəyərləndirmək, aydınlaşdırmaq, cavab vermək və ya digər istifadəçilərə kömək etmək üçün yayımlamaq haqqına sahibdir. azerdict potensial olaraq şəxsi təyin edən və şəxsi təyin edən məlumatların icazəsiz əldə olunmasını, istifadəsini və dəyişdirilməsinin qarşısını almaq üçün lazım olan bütün tədbirləri alır. azerdict saytın ziyarətçilərinin hərəkətlərini öyrənmək üçün statistika tuta bilər.'
+      p3:
+        title: Abunələr
+        text: 'Əgər siz Günün Sözünə abunə olmaq istəsəniz yalnız e-poçt ünvanınız tələb olunacaqdır. Əgər siz bizdən Günün Sözünü e-poçt olaraq alır və bunu dayandırmaq istəyirsəniz, aldığınız e-poçt məzmunun altındakı “abunəliyin ləğvi” keçidindən istifadə edə bilərsiniz.'
+      p4:
+        title: 'Üçüncü Tərəf Reklamçıları'
+        text: 'azerdict üçüncü tərəf reklam şirkətlərinin reklamlarından istifadə edərək sayta reklam yerləşdirir. Bu şirkətlər bu və digər saytlara ziyarətinizdəm əldə olunan məlumatları (adınız, e-poçt ünvanınız və telefon nömrəniz bura daxil deyil) dəyərləndirərək sizin istəyinizə uyğun olan malları və xidmətləri reklam edir. Bu qayda haqqında daha ətraflı məlumat əldə etmək və bu məlmatların hansılarının bu şirkətlər tərəfindən istifadəsinin qarşısını almaq üçün lütfən bura tıqqıldadın www.networkadvertising.org/optout_nonppii.asp. Bundan başqa əgər reklam şirkətinin də məxfilik siyasətini oxumaq istəyirsinizsə lütfən www.google.com səhifəsini ziyarət edin.'
+      p5:
+        title: Kökələr
+        text: 'Kökə, vebsaytın kompüterinizdə saxladığı və ziyarətçinin səyyahının hər səfərində veb səhifəni istifadə edərkən təmin etdiyi məlumat sətiridir. azerdict kökələrdən istifadə edərək ziyarətçilərin azerdict veb səhifəsindən istifadəsini və onların tərcihlərini müəyyənləşdirir və izləyir. Bu kökələri qəbul etmək istəməyən ziyarətçilər, səyyahlarını buna görə sayta girməmişdən öncə konfiqurasiya etməlidirlər. Xatırladaq ki, bunun nəticəsinə azerdict-dəki bəzi funksiyalar tam çalışmaya bilər.'
+      p6:
+        title: 'Məxfilik Siyasəti Dəyişiklikləri'
+        text: 'Baxmayaraq ki əksər dəyişikliklər çox kiçik olur, azerdict vaxtaşırı Məxfilik Siyasətinə dəyişikliklər edə bilər və bu tamamilə azerdict-in səlahiyyətindədir. azerdict, mümkün dəyişikliklərdən xəbərdar olmaq üçün istifadəçilərə bu səhifəni tez-tez ziyarət etməyi məsləhət görür. Məxfilik Siyasətindəki dəyişikliklərə rəğmən bu saytı istifadə etməyiniz, sizin bu dəyişiklikləri qəbul etdiyiniz mənasına gəlir.'
+      p7:
+        title: 'Əlaqə Məlumatı'
+        text: 'Əlaqə məlumatlarımız Əlaqə səhifəsində mövcuddur.'
+  terms_of_use:
+    title: 'İstifadə Şərtləri'
+    content:
+      p1:
+        title: '1. Xidmətin Göstərilməsi'
+        text: 'AzerDict bir veb servisidir. Siz başa düşür və qəbul edirsiniz ki, bu xidmət "olduğu kimi" təqdim/təklif olunur. AzerDict xidmət zamanı baş verə biləcək hər hansı gecikmələrə, qeyri-dəqiqliyə, informasiyanın silinməsi və itməsinə görə heç bir məsuliyyət daşımır. AzerDict istədiyi zaman və hər hansı bir səbəb göstərmədən veb servis xidmətini dayandıra bilər.'
+      p2:
+        title: '2. Düzgün İstifadə'
+        text: 'Siz qəbul edir və razılaşırsınız ki, xidmətdən göstərilən qaydalar çərçivəsində istifadə edəcəksiniz. AzerDict, öz səlahiyyəti çərçivəsində, Gizlilik Siyasətini və İstifadəçi Şərtlərini istədiyi zaman dəyişə və müvafiq dəyişikliklər edə bilər. Siz bu dəyişiklikləri qəbul edir və onlara əməl edəcəyinizə razılıq verirsiniz. Edilən dəyişiklikləri mütəmadi olaraq gözdən keçirmək sizin öhdəliyinizdədir. Hər hansı bir maddənin pozuntusu zamanı Razılaşma Sözləşməsi ləğv olunur və siz qanun qarşısında hüquqi məsuliyyət daşıyırsınız. Biz sizdən AzerDict-dən müvafiq qaydalar çərçivəsində istifadə etməyinizi gözləyirik.'
+      p3:
+        title: '3. Gizlilik'
+        text: 'Xidmətin istifadə şərtləri çərçivəsində, siz AzerDict-in ən Gizlilik Siyasəti şərtlərini qəbul edirsiniz. Xatırladaq ki, Gizlilik Siyasəti aradabir dəyişdirilə bilər və siz istifadə zamanı qüvvədə olan qaydalara görə məsuliyyət daşıyırsınız.'
+      p4:
+        title: '4. Xidmətin Məzmunu'
+        text: 'AzerDict xidmətin paylaşılmasının dayandırılması haqqına sahibdir. AzerDict bu qaydalara görə öz haqlarını icra edib etməməsinə görə məsuliyyət daşımır.'
+      p5:
+        title: '5. Əqli Mülkiyyət Hüququ'
+        text: 'Siz qəbul edirsiniz ki, lüğət AzerDict-lə bağlı olan bütün haqlara, həmçinin əqli mülk haqlarına ("AzerDict Haqları") sahibdir. Həmçinin, siz razılaşırsınız ki, AzerDict-in verdiyi xidmətin hər hansı bir hissəsini köçürməyəcək, çoxaltmayacaq, dəyişdirməyəcək, dəyişdirərək başqa yerlərdə istifadə etməyəcəksiniz. AzerDict , öz səlahiyyətləri çərçivəsində, hər hansı bir Məzmunu qəbul etmə, paylaşma və yayımlama hüququna malikdir.'
+      p6:
+        title: '6. Xidmət Yenidən Satışı Qadağandır'
+        text: 'AzerDict-də açıq şəkildə qeyd edildiyi kimi, siz razılaşırsınız ki, lüğətdəki məlumatı və ya onun hər hansı bir hissəsini çoxaltmayacaq, satmayacaq və hər hansı bir ticari məqsədlə istifadə etməyəcəksiniz. Həmçinin, (a) xidmətin hər hansı bir hissəsini, (b) xidmətin istifadəsini və (c) xidmətə girişi ticari məqsədlər üçün istifadə etməyəcəyinizi qəbul edirsiniz.'
+      p7:
+        title: '7. Təmsil və Zəmanət'
+        text: 'Siz bəyan edir və zəmanət verirsiniz ki, (a) sizin tərəfinizdən AzerDict-ə verilən və AzerDict-in xidmətində istifadə olunacaq məlumatlar cari və doğrudur və (b) siz İstifadəçi Razılaşmasını qəbul etmək üçün lazımi hüquq və haqlara sahibsiniz.'
+      p8:
+        title: '8. Razılaşmanın Ümumi Müddəaları'
+        text: 'Bu, siz və AzerDict arasındakı ümumi razılaşmanı təyin edir və sizin lüğətdən istifadənizi idarə edir. Həmçinin, siz AzerDict-in başqa xidmətlərindən yararlanarkən də bu Razılaşmanın maddələrindən başqa əlavə şərt və qaydalara məruz qala bilərsiniz.'
+      p9:
+        title: '9. Müəlliflik Hüququ'
+        text: 'Lüğətdə AzerDict adı altında göstərilən xidmətlər və mənbələr (AzerDict adı və müəlliflik haqqı) AzerDict-ə məxsusdur. Müəlliflik hüququnun pozulması qəbul olunmazdır. Əks təqdirdə, pozuntuya səbəb olan şəxs qanun qarşısında məsuliyyət daşıyacaqdır.'
+      p10:
+        title: '10. Təminatdan Azad'
+        text: 'Siz qəbul edir və razılaşırsınız ki; a.  Sizə AzerDict onlayn lüğət xidməti "olduğu kimi" təqdim olunur; b.  AzerDict təminat vermir ki, göstərilən xidmət sizin tələblərinizə tam cavab verəcək və xidmət dəqiq, operativ və qüsursuz olacaq; c.  AzerDict onlayn lüğət xidmətindən istifadə zamanı dəyən zərərə görə AzerDict heç bir məsuliyyət daşımır. Siz dəyən zərərə görə şəxsən özünüz cavabdehsiniz; d.  AzerDict sizə xidmətdən istifadəyə görə birbaşa və ya bilavasitə dəyən (və ya dəyə biləcək) hər hansı zərərə görə məsuliyyət daşımır.'
+  sources:
+    title: Mənbə
+  applications:
+    title: 'azerdict tətbiqləri'
+    mobile_apps: 'mobil tətbiqlər'
+    extensions:
+      title: əlavələr
+      chrome:
+        title: 'Chrome Əlavə'
+        text: 'Google Chrome istifadəçiləri üçün sürətli axtarış paneli (qeyri rəsmi)'
+
+errors:
+  404:
+    title: 'Səhifə Tapılmadı'
+
+common:
+  email: E-poçt
+  address: Adres
+  send: Göndər
+  on: açıq
+  off: qapalı
+  rights_reserved: 'Bütün hüquqları qorunur'
+  read_more: 'ətrafı məlumat'
+
+footer:
+  apps:
+    title: 'Mobil tətbiqetmələr'
+    intro: 'Mobil istifadəçiləri də unutmadıq! Saytdan gündəlik istifadənizi asanlaşdıracaq faydalı tətbiqlər.'
+    azerdict: 'azerdict Tətbiqetmələri'
+
+terminology:
+  general: ümumi
+  biological: biological
+  spoken language: spoken language
+  botanical: botanical
+  medical: medical
+  American: American
+  law: law
+  philosophical: philosophical
+  physics: physics
+  physiological: physiological
+  mathematics: mathematics
+  sport: sport
+  figurative meaning: figurative meaning
+  economy: economy
+  art: art
+  anatomical: anatomical
+  anthropological: anthropological
+  parenthesis: parenthesis
+  archaism: archaism
+  archeological: archeological
+  astronomical: astronomical
+  computer: computer
+  proverb: proverb
+  aeronautics: aeronautics
+  horticultural: horticultural
+  bacteriological: bacteriological
+  veterinary: veterinary
+  zoological: zoological
+  geographical: geographical
+  office: office
+  nautical: nautical
+  dialect: dialect
+  linguistic: linguistic
+  religion: religion
+  diplomatic: diplomatic
+  technical: technical
+  ecology: ecology
+  electrical engineering: electrical engineering
+  scientific: scientific
+  emphatic: emphatic
+  ethnographic: ethnographic
+  euphemism: euphemism
+  pharmacological: pharmacological
+  literature: literature
+  mythology: mythology
+  folklore: folklore
+  phonetic: phonetic
+  photography: photography
+  french: french
+  geodesy: geodesy
+  geological: geological
+  geometrical: geometrical
+  military: military
+  political: political
+  idiomatic: idiomatic
+  building: building
+  irony: irony
+  jargon: jargon
+  church: church
+  chemistry: chemistry
+  ironical: ironical
+  movie: movie
+  finance: finance
+  agricultural: agricultural
+  grammatical: grammatical
+  Latin: Latin
+  architecture: architecture
+  logic: logic
+  printing: printing
+  press: press
+  mineralogy: mineralogy
+  music: music
+  book-keeping: book-keeping
+  polite: polite
+  optics: optics
+  sporting: sporting
+  psychology: psychology
+  radio: radio
+  official language: official language
+  painting: painting
+  political-economy: political-economy
+  statistics: statistics
+  poetical: poetical
+  chess: chess
+  taboo: taboo
+  history: history
+  theatrical: theatrical
+  television: television
+  commerce: commerce
+  building: building
+  typographical: typographical
+  textile: textile
+  collective noun: collective noun
+  baby language: baby language
+  jocular: jocular
+  saying: saying
+  railway: railway
+  cooking: cooking
+  polygraph: polygraph
+  geographical name: geographical name
+  geographical name: geographical name
+  rude word: rude word
+  vulgar: vulgar
+
+pos:
+  noun: isim
+  verb: fel
+  adjective: sifət
+  numeral: say
+  adverb: zərf
+  pronoun: əvəzlik
+  conjunction: bağlayıcı
+  partical: partical
+  preposition: sözönü
+  abbreviation: abreviatura
+  past tense: past tense
+  past participle: keçmiş zaman
+  present participle: indiki zaman
+  conjective pronoun: conjective pronoun
+  demonstrative pronoun: demonstrative pronoun
+  interrogative pronoun: interrogative pronoun
+  personal pronoun: personal pronoun
+  possessive pronoun: possessive pronoun
+  indefinite pronoun: indefinite pronoun
+  reflexive pronoun: reflexive pronoun
+  relative pronoun: relative pronoun
+  indefinite adverb: indefinite adverb
+  interrogative adverb: interrogative adverb
+  relative adverb: relative adverb
+  prefix: prefix
+  interjection: interjection
+  singular: singular
+  phrases: phrases
+  plural: plural
+  emphatic pronoun: emphatic pronoun
