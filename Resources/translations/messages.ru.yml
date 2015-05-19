@@ -96,7 +96,7 @@ pages:
   advertise:
     title: Реклама
   privacy:
-    title: 'Политика Конфиденциальности'
+    title: 'Конфиденциальность'
     content:
       p1:
         title: 'Vebsayt Ziyarətçiləri'
@@ -120,7 +120,7 @@ pages:
         title: 'Əlaqə Məlumatı'
         text: 'Əlaqə məlumatlarımız Əlaqə səhifəsində mövcuddur.'
   terms_of_use:
-    title: 'İstifadə Şərtləri'
+    title: 'Условия'
     content:
       p1:
         title: '1. Xidmətin Göstərilməsi'
@@ -173,8 +173,8 @@ common:
   send: отправить
   on: открыто
   off: закрыто
-  rights_reserved: 'Bütün hüquqları qorunur'
-  read_more: 'ətrafı məlumat'
+  rights_reserved: 'Все права сохранены'
+  read_more: 'читать далее'
 
 footer:
   apps:
