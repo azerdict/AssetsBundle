@@ -1,11 +1,11 @@
 site:
   name: uzbekdict
   title: 'Onlayn O‘zbekcha Lug‘at'
-#  description: 'The Largest Online Dictionary of Azerbaijan. Dictionary and translation service.'
+  description: 'Online Dictionary of Uzbekistan. Dictionary and translation service.'
 
 menu:
   home: 'Bosh sahifa'
-  english: English
+  english: Inglizcha
   russian: Russian
   azerbaijani: Azerbaijani
   orthography: Orthography
@@ -35,7 +35,7 @@ dictionary:
     title: '%word%ning tarjimasi va ma’nolari'
     pronounciation: '%word%ning talaffuzi'
   english:
-    title: 'Azerbaijani English Dictionary'
+    title: 'Uzbek English Dictionary'
     word: Translation and meaning of %word% in English
     category:
       uzbek: O‘zbekcha
