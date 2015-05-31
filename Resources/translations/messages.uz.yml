@@ -28,7 +28,7 @@ dictionary:
     recent_searches: 'So‘nggi qidirlganlar'
     personal_recent_searches: 'Oxirgi qidirgan so‘zlaringiz'
     delete_personal_searches: 'hammasini o‘chir'
-    no_result: '<strong>%word%</strongning tarjimasi topilmadi>'
+    no_result: '<strong>%word%</strong>ning tarjimasi topilmadi'
     number_of_result: '<strong>%word%</strong>ning tarjimasi (%number% results)'
     placeholder: 'o‘girish uchun so‘z yozing'
     translate: 'translate'
