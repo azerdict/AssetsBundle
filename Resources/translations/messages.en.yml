@@ -42,6 +42,7 @@ dictionary:
     title: 'Azerbaijani English Dictionary'
     word: Translation and meaning of %word% in English
     category:
+      uzbek: Uzbek
       azerbaijani: Azerbaijani
       english: English
       pos: Part Of Speech
