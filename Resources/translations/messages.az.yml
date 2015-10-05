@@ -34,6 +34,10 @@ dictionary:
     translate: 'tərcümə et'
     title: '%word% sözünün tərcüməsi və mənası'
     pronounciation: '%word% sözünün oxunuşu'
+    suggest_word:
+      title: '"%word%" sözünün tərcüməsini təklif et'
+      button: Təklif et
+      success: Təkfiliniz göndərildi. Təşəkkür edirik.
   english:
     title: 'Azərbaycan İngiliscə Lüğət'
     word: %word% sözünün ingilis dilində tərcüməsi və mənası

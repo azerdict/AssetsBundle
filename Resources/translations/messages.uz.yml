@@ -33,7 +33,10 @@ dictionary:
     placeholder: 'o‘girish uchun so‘z yozing'
     translate: 'translate'
     title: '%word%ning tarjimasi va ma’nolari'
-    pronounciation: '%word%ning talaffuzi'
+    pronounciation: '%word%ning talaffuzi'suggest_word:
+      title: 'Suggest a translation for "%word%"'
+      button: Suggest
+      success: Your suggestion sent successfully. Thanks!
   english:
     title: 'Azerbaijani English Dictionary'
     word: Translation and meaning of %word% in English

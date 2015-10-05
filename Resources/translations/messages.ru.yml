@@ -34,6 +34,10 @@ dictionary:
     translate: 'перевести'
     title: 'Перевод и значение для слова %word%'
     pronounciation: 'Произношение для %word%'
+    suggest_word:
+      title: 'Suggest a translation for "%word%"'
+      button: Suggest
+      success: Your suggestion sent successfully. Thanks!
   english:
     title: 'Азербайджанский-Английский Словар'
     word: Перевод и означение слова %word% на Английском

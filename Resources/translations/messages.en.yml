@@ -34,6 +34,10 @@ dictionary:
     translate: 'translate'
     title: 'translation and meaning of %word%'
     pronounciation: 'Pronounciation of %word%'
+    suggest_word:
+      title: 'Suggest a translation for "%word%"'
+      button: Suggest
+      success: Your suggestion sent successfully. Thanks!
   english:
     title: 'Azerbaijani English Dictionary'
     word: Translation and meaning of %word% in English
