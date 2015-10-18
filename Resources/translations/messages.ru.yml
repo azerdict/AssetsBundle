@@ -37,6 +37,7 @@ dictionary:
     suggest_word:
       title: 'Suggest a translation for "%word%"'
       button: Suggest
+      dont_show_again: Не показывать снова
       success: Your suggestion sent successfully. Thanks!
   english:
     title: 'Азербайджанский-Английский Словар'

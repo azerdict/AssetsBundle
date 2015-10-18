@@ -37,6 +37,7 @@ dictionary:
     suggest_word:
       title: '"%word%" için çeviri önerin'
       button: Gönder
+      dont_show_again: Bir daha gösterme
       success: Öneriniz başarıyla gönderildi. Teşekkür ederiz!
   english:
     title: 'Azərbaycan İngiliscə Lüğət'

@@ -36,6 +36,7 @@ dictionary:
     pronounciation: '%word%ning talaffuzi'suggest_word:
       title: 'Suggest a translation for "%word%"'
       button: Suggest
+      dont_show_again: Don't show again
       success: Your suggestion sent successfully. Thanks!
   english:
     title: 'Uzbek English Dictionary'
