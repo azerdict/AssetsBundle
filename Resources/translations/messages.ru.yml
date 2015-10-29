@@ -2,6 +2,7 @@ site:
   name: azerdict
   title: 'Онлайн Словар Азербайджана'
   description: 'Самый болщой словар Азербайджана. Сервис перевода и словаря.'
+  about: "Azerdict is Azerbaijan's the largest language portal. The primary objective of azerdict is to put into service multilingual electronic dictionaries and resources to master Azerbaijani and foreign languages."
 
 menu:
   home: 'Главная страница'

@@ -2,6 +2,7 @@ site:
   name: azerdict
   title: 'Azərbaycanın Online Lüğəti'
   description: 'Azərbaycanın ən böyük onlayn lüğəti. Tərcümə və lüğət servisi.'
+  about: "Azerdict Azərbaycanın ən böyük dil portalıdır. Azərbaycan dilinin və xarici dillərin tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi layihənin əsas məqsədidir."
 
 menu:
   home: 'Ana səhifə'
@@ -70,7 +71,7 @@ pages:
   about:
     title: Haqqımızda
     content:
-      p1: 'Azerdict Azərbaycanın ən böyük pulsuz dil portalıdır. Azərbaycan dilinin və xarici dillərin tam tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi azerdict layihəsinin əsas məqsədidir. Hazırda layihə çərçivəsində saytda 4 istiqamətdə lüğət xidməti göstərilir və bu xidmətlərin artırılması gələcək planlarda öz əksini tapıb.'
+      p1: 'Azerdict Azərbaycanın ən böyük pulsuz dil portalıdır. Azərbaycan dilinin və xarici dillərin tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi layihənin əsas məqsədidir. Hazırda layihə çərçivəsində saytda 4 istiqamətdə lüğət xidməti göstərilir və bu xidmətlərin artırılması gələcək planlarda öz əksini tapıb.'
       p2:
         title: 'Azərbaycanca-ingiliscə və ingiliscə-azərbaycanca lüğət'
         info: 'Portalın əsas xidməti olan bu lüğət vasitəsilə istifadəçilər hər iki istiqamətdə 150000-dən çox söz, söz birləşməsi, idiom və cümlədən ibarət zəngin söz bazasından istifadə edə bilərlər. İngiliscə azərbaycanca və azərbaycanca ingiliscə tərcümədə çox geniş və unikal imkanlar təklif edən lüğətin bazası istifadəçilərin tələb və təklifləri, eləcə də lüğətdə axtarılıb tapılmayan sözlərin statistikası funksiyasından istifadə olunaraq davamlı və interaktiv olaraq yenilənir.'

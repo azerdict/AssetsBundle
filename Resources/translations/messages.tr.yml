@@ -1,7 +1,8 @@
 site:
   name: azerdict
   title: 'Azerice Sözlük'
-  description: 'Azerbaycan'ın en büyük sözlüğü. Tercüme ve sözlük hizmeti.'
+  description: "Azerbaycan'ın en büyük sözlüğü. Tercüme ve sözlük hizmeti."
+  about: "Azerdict Azərbaycanın ən böyük dil portalıdır. Azərbaycan dilinin və xarici dillərin tam mənimsənilərək düzgün istifadə edilə bilinməsi üçün çoxdilli elektron lüğətlərin və digər resursların hazırlanaraq istifadəyə verilməsi layihənin əsas məqsədidir."
 
 menu:
   home: 'Ana sayfa'
