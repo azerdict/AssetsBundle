@@ -27,6 +27,7 @@ dictionary:
     check: 'tekshir'
     popular_searches: 'Eng ko‘p qidirilganlar'
     recent_searches: 'So‘nggi qidirlganlar'
+    last_added_words: 'Last Added'
     personal_recent_searches: 'Oxirgi qidirgan so‘zlaringiz'
     delete_personal_searches: 'hammasini o‘chir'
     no_result: '<strong>%word%</strong>ning tarjimasi topilmadi'

@@ -27,6 +27,7 @@ dictionary:
     check: Check
     popular_searches: 'Popular Searches'
     recent_searches: 'Last Searches'
+    last_added_words: 'Last Added'
     personal_recent_searches: 'Your recent searches'
     delete_personal_searches: 'delete all'
     no_result: 'No result found for <strong>%word%</strong>.'

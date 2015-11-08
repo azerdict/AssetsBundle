@@ -27,6 +27,7 @@ dictionary:
     check: Yoxla
     popular_searches: 'Çox Axtarılanlar'
     recent_searches: 'Ən Son Axtarılanlar'
+    last_added_words: 'Son Eklenenler'
     personal_recent_searches: 'Son axtardığınız sözlər'
     delete_personal_searches: 'hamısını sil'
     no_result: '<strong>%word%</strong> sözü üçün nəticə tapılmadı.'

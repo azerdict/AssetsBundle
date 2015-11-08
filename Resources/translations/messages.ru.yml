@@ -27,6 +27,7 @@ dictionary:
     check: Проверит
     popular_searches: 'Популярные запросы'
     recent_searches: 'Последние запросы'
+    last_added_words: 'Last Added'
     personal_recent_searches: 'Выши последние запросы'
     delete_personal_searches: 'удалить все'
     no_result: 'Не удалос найти резултатов по запросу <strong>%word%</strong>.'
